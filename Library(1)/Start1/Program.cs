@@ -200,12 +200,11 @@ class Program
                 case "0":
                     Console.WriteLine(" Bye!");
                     return;
-
             }
         }
     }
 }
-// tipa shoc` minyaju
+
 
 /*static void Main()
 {
