@@ -1,0 +1,15 @@
+D:\Файли\Курси\Start1\Start1\obj\Debug\net10.0\Start1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Файли\Курси\Start1\Start1\obj\Debug\net10.0\Start1.AssemblyInfoInputs.cache
+D:\Файли\Курси\Start1\Start1\obj\Debug\net10.0\Start1.AssemblyInfo.cs
+D:\Файли\Курси\Start1\Start1\obj\Debug\net10.0\Start1.csproj.CoreCompileInputs.cache
+D:\Файли\Курси\Start1\Start1\bin\Debug\net10.0\Start1.exe
+D:\Файли\Курси\Start1\Start1\bin\Debug\net10.0\Start1.deps.json
+D:\Файли\Курси\Start1\Start1\bin\Debug\net10.0\Start1.runtimeconfig.json
+D:\Файли\Курси\Start1\Start1\bin\Debug\net10.0\Start1.dll
+D:\Файли\Курси\Start1\Start1\bin\Debug\net10.0\Start1.pdb
+D:\Файли\Курси\Start1\Start1\obj\Debug\net10.0\Start1.dll
+D:\Файли\Курси\Start1\Start1\obj\Debug\net10.0\refint\Start1.dll
+D:\Файли\Курси\Start1\Start1\obj\Debug\net10.0\Start1.pdb
+D:\Файли\Курси\Start1\Start1\obj\Debug\net10.0\Start1.genruntimeconfig.cache
+D:\Файли\Курси\Start1\Start1\obj\Debug\net10.0\ref\Start1.dll
+D:\Файли\Курси\Start1\Start1\obj\Debug\net10.0\Start1.csproj.Up2Date

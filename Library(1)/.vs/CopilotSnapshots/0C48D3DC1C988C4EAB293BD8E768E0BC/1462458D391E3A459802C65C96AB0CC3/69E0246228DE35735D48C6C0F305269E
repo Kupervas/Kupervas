@@ -1,0 +1,19 @@
+﻿int secret = 34;
+int guess  = 0;
+while (guess != secret)
+{
+    Console.WriteLine("Введи число");
+    guess = int.Parse(Console.ReadLine());
+    if (guess < secret)
+    {
+        Console.WriteLine("Більше");
+    }
+    else if (guess > secret)
+    {
+        Console.WriteLine("Менше");
+    }
+    else
+    {
+        Console.WriteLine("Вгадав");
+    }
+}
