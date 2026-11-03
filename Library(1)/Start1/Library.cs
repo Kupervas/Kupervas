@@ -13,13 +13,6 @@ namespace Start1
         {
             books = new List<Book>();
         }
-        /*
-        public void AddBook(Book book)
-        {
-            books.Add(book);
-            Console.WriteLine($"Books added successfully: {book.Title} - {book.Author} - {book.Year} ");
-        }
-        */
         public void AddbookWithId(Book book)
         {
             book.Id = _nextBookId++;

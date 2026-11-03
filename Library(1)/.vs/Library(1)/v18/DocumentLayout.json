@@ -3,16 +3,16 @@
   "WorkspaceRootPath": "D:\\\u0424\u0430\u0439\u043B\u0438\\\u041D\u0430\u0441\u0442\u0430\u0432\u043D\u0438\u0446\u0442\u0432\u043E\\Kupervas\\Library(1)\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\\u0424\u0430\u0439\u043B\u0438\\\u041D\u0430\u0441\u0442\u0430\u0432\u043D\u0438\u0446\u0442\u0432\u043E\\Kupervas\\Library(1)\\Start1\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Start1\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\\u0424\u0430\u0439\u043B\u0438\\\u041D\u0430\u0441\u0442\u0430\u0432\u043D\u0438\u0446\u0442\u0432\u043E\\Kupervas\\Library(1)\\Start1\\Library.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Start1\\Library.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\\u0424\u0430\u0439\u043B\u0438\\\u041D\u0430\u0441\u0442\u0430\u0432\u043D\u0438\u0446\u0442\u0432\u043E\\Kupervas\\Library(1)\\Start1\\Book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Start1\\Book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\\u0424\u0430\u0439\u043B\u0438\\\u041D\u0430\u0441\u0442\u0430\u0432\u043D\u0438\u0446\u0442\u0432\u043E\\Kupervas\\Library(1)\\Start1\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Start1\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,17 +22,17 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\\u0424\u0430\u0439\u043B\u0438\\\u041D\u0430\u0441\u0442\u0430\u0432\u043D\u0438\u0446\u0442\u0432\u043E\\Kupervas\\Library(1)\\Start1\\Program.cs",
               "RelativeDocumentMoniker": "Start1\\Program.cs",
               "ToolTip": "D:\\\u0424\u0430\u0439\u043B\u0438\\\u041D\u0430\u0441\u0442\u0430\u0432\u043D\u0438\u0446\u0442\u0432\u043E\\Kupervas\\Library(1)\\Start1\\Program.cs",
               "RelativeToolTip": "Start1\\Program.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAAEMAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAvAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-11-03T19:52:08.913Z",
               "IsPinned": true,
@@ -40,7 +40,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "Book.cs",
               "DocumentMoniker": "D:\\\u0424\u0430\u0439\u043B\u0438\\\u041D\u0430\u0441\u0442\u0430\u0432\u043D\u0438\u0446\u0442\u0432\u043E\\Kupervas\\Library(1)\\Start1\\Book.cs",
               "RelativeDocumentMoniker": "Start1\\Book.cs",
@@ -53,13 +53,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Library.cs",
               "DocumentMoniker": "D:\\\u0424\u0430\u0439\u043B\u0438\\\u041D\u0430\u0441\u0442\u0430\u0432\u043D\u0438\u0446\u0442\u0432\u043E\\Kupervas\\Library(1)\\Start1\\Library.cs",
               "RelativeDocumentMoniker": "Start1\\Library.cs",
               "ToolTip": "D:\\\u0424\u0430\u0439\u043B\u0438\\\u041D\u0430\u0441\u0442\u0430\u0432\u043D\u0438\u0446\u0442\u0432\u043E\\Kupervas\\Library(1)\\Start1\\Library.cs",
               "RelativeToolTip": "Start1\\Library.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-11-03T19:52:24.335Z",
               "EditorCaption": ""
