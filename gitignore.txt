@@ -398,3 +398,13 @@ FodyWeavers.xsd
 
 # JetBrains Rider
 *.sln.iml
+# Visual Studio
+.vs/
+
+# Build results
+**/bin/
+**/obj/
+
+# User-specific files
+*.user
+*.suo
